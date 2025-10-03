@@ -1,0 +1,82 @@
+{
+    "Paracetamol": {
+        "price": 12000,
+        "quantity": 100
+    },
+    "Ibuprofen": {
+        "price": 15000,
+        "quantity": 30
+    },
+    "Amoxicillin": {
+        "price": 18000,
+        "quantity": 30
+    },
+    "Azithromycin": {
+        "price": 20000,
+        "quantity": 20
+    },
+    "Ciprofloxacin": {
+        "price": 25000,
+        "quantity": 35
+    },
+    "Metronidazole": {
+        "price": 30000,
+        "quantity": 28
+    },
+    "Diclofenac": {
+        "price": 35000,
+        "quantity": 45
+    },
+    "Omeprazole": {
+        "price": 40000,
+        "quantity": 22
+    },
+    "Ranitidine": {
+        "price": 45000,
+        "quantity": 15
+    },
+    "Cetirizine": {
+        "price": 50000,
+        "quantity": 55
+    },
+    "Loratadine": {
+        "price": 55000,
+        "quantity": 38
+    },
+    "Salbutamol": {
+        "price": 60000,
+        "quantity": 42
+    },
+    "Prednisolone": {
+        "price": 65000,
+        "quantity": 20
+    },
+    "Insulin": {
+        "price": 70000,
+        "quantity": 18
+    },
+    "Vitamin C": {
+        "price": 75000,
+        "quantity": 60
+    },
+    "Aspirin": {
+        "price": 80000,
+        "quantity": 70
+    },
+    "Hydroxychloroquine": {
+        "price": 85000,
+        "quantity": 25
+    },
+    "Furosemide": {
+        "price": 90000,
+        "quantity": 32
+    },
+    "Warfarin": {
+        "price": 95000,
+        "quantity": 27
+    },
+    "Atorvastatin": {
+        "price": 99000,
+        "quantity": 33
+    }
+}
